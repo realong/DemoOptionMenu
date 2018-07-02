@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoOptionMenu</string>
+    <string name="copy">複製</string>
+    <string name="paste">貼上</string>
+    <string name="about">關於</string>
+    <string name="exit">離開</string>
+    <string name="No1">第一個欄位</string>
+    <string name="NO2">第二個欄位</string>
+</resources>

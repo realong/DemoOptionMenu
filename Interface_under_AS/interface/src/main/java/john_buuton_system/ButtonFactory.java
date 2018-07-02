@@ -1,0 +1,23 @@
+
+package john_buuton_system;
+
+//////一個封閉系統 Button /////////////////////////////////////////////////////////////////////////
+
+//////準備一個規格
+
+
+
+/////// 潮 !!! 弄個工廠 !!!
+public class ButtonFactory{
+    /*
+    static my_button make_s(){
+        return new my_button();
+    }
+    */
+    public my_button make(){
+        return new my_button();
+    }
+
+}
+
+/////////////////////////////////系統結束/////////////////////////////////////////////////////////
